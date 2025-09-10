@@ -4,7 +4,7 @@
 
 This is just a simple example of "Hello World!"
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8FfWr1OjLqg)
 
 # Development Environment
 
